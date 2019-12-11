@@ -1,0 +1,37 @@
+{
+  "name": "fyy-saas-v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pub": "sh pub.sh",
+    "push": "sh push.sh",
+    "commit": "sh commit.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jason-live/fyy-saas-v1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jason-live/fyy-saas-v1/issues"
+  },
+  "homepage": "https://github.com/jason-live/fyy-saas-v1#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.0.2",
+    "husky": "^3.1.0",
+    "validate-commit-msg": "^2.14.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "validate-commit-msg"
+    }
+  }
+}
