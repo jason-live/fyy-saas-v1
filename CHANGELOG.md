@@ -1,6 +1,15 @@
 ## [1.1.2](https://github.com/jason-live/fyy-saas-v1/compare/v1.1.1...v1.1.2) (2019-12-11)
 
 
+### Bug Fixes
+
+* :bug: 移除 package-lock.json ([7c5c897](https://github.com/jason-live/fyy-saas-v1/commit/7c5c8972af9b87742f0eb83baf2e8cb6d5802600))
+
+
+
+## [1.1.2](https://github.com/jason-live/fyy-saas-v1/compare/v1.1.1...v1.1.2) (2019-12-11)
+
+
 
 ## [1.1.1](https://github.com/jason-live/fyy-saas-v1/compare/v1.1.0...v1.1.1) (2019-12-11)
 
