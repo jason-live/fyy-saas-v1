@@ -1,0 +1,14 @@
+
+server:
+  port: 8080
+
+spring:
+  datasource:
+    url: jdbc:mysql://mes.api.fuliaoyi.com:3306/fyy_saas_dev?useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai
+    username: yuanyang
+    password: Yy52101989
+
+mybatis:
+  mapper-locations:
+    - classpath:mapper/*.xml
+    - classpath*:com/**/mapper/*.xml
