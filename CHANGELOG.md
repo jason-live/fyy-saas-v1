@@ -1,3 +1,12 @@
+## [1.1.1](https://github.com/jason-live/fyy-saas-v1/compare/v1.1.0...v1.1.1) (2019-12-11)
+
+
+### Features
+
+* :pencil: 新增 REMARK.md 用于过程说明 ([e5d3ada](https://github.com/jason-live/fyy-saas-v1/commit/e5d3ada1c9ab2967c99dad13c952f52bee1b8432))
+
+
+
 # 1.1.0 (2019-12-11)
 
 
